@@ -13,7 +13,10 @@
   <img align="center" alt "PostGresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div> <br/>
   
-    Geóloga ⛏️🪨 apaixonada por tecnologia 🤓! 
+
   
+    Geóloga ⛏️🪨 apaixonada por tecnologia 🤓!
+    
+   
   
 
