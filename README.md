@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p align="center">A geologist  :rock:  with ❤️ in solve challenges using tech. <br><br> Today, I'm in <strong>post-doc position</strong> focused on data driven results.</p>&nbsp;
+<p align="center">A geologist :rock:  with ❤️ in solving challenges using tech. <br><br> Currently, I hold a post-doctoral position, dedicated to generating insightful results through the power of data-driven methodologies.</p>&nbsp;
  
  &nbsp;
  &nbsp;
